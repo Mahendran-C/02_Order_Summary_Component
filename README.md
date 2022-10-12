@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: (https://github.com/Mahendran-C/02_Order_Summary_Component)
+- Live Site URL: (https://mahendran-c.github.io/02_Order_Summary_Component/)
 
 ### Built with
 
