@@ -27,7 +27,7 @@ body{
 
 main{
     width: 450px;
-    height: 650px;
+    height: 680px;
     background-color: var(--veryPaleBlue);
     border-radius: 10px;
     display: flex;
